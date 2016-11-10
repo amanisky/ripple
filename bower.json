@@ -1,0 +1,24 @@
+{
+  "name": "ripple",
+  "homepage": "https://github.com/amanisky/ripple",
+  "authors": [
+    "amanisky <amanisky@126.com>"
+  ],
+  "description": "波纹效果",
+  "main": "",
+  "keywords": [
+    "波纹"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
